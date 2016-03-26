@@ -30,7 +30,7 @@ I would like to start by talking why I think that **apps architecture** is an im
 
 ## Dependency Injection approach: [Dagger 2](http://google.github.io/dagger/)
 
-- Generally in **Clean Architecture**, code is separated into layers in an onion shape with one dependency rule: **The inner layers should not know anything about the outer layers**. Meaning that the dependencies should point inwards. at this point **Dagger 2** came with this rules:
+Generally in **Clean Architecture**, code is separated into layers in an onion shape with one dependency rule: **The inner layers should not know anything about the outer layers**. Meaning that the dependencies should point inwards. at this point **Dagger 2** came with this rules:
     
 	- Components **reuse**, since dependencies can be **injected** and **configured** externally.
 
