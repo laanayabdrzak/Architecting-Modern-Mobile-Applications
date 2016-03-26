@@ -1,6 +1,6 @@
 # Architecting Modern Mobile Applications
 
-Hey there! After my post on [Android Development : Some of the best practices](https://medium.com/@laanayabdrzak/android-development-some-of-the-best-practices-27722c685b6a#.de2dny4t6) (and a lot of research) I decided to give you taste of what I consider a good approach when it comes to **architecting modern mobile applications** (android in this case).
+Hey there! After my post on [Android Development : Some of the best practices](https://medium.com/@laanayabdrzak/android-development-some-of-the-best-practices-27722c685b6a#.de2dny4t6) (and a lot of research), I decided to give you taste of what I consider a good approach when it comes to **architecting modern mobile applications** (android in this case).
 
 The first resource I would like to present is a superb blogpost by [uncle bob](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
