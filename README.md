@@ -5,16 +5,16 @@ Hey there! After my post on [Android Development : Some of the best practices](h
 The first resource I would like to present is a superb blogpost by [uncle bob](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 - Good **Architecture** is :
-	
-	-Independent of UI
-	
-	-Independent of Frameworks
-	
-	-Independent of any agency externe
-	
-	-Independent of Database
-	
-	-Testable
+
+- Independent of UI
+
+- Independent of Frameworks
+
+- Independent of any agency externe
+
+- Independent of Database
+
+- Testable
 
 ## Why to invest into architecture ?
 
