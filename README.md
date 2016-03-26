@@ -55,6 +55,8 @@ At least the advantages for using **Dagger 2**:
 
 ## Testing approach: Espresso/ JUnit/ Mockito/ Robolectric
 
+Testing your app is an integral part of the app development process. Testing allows you to verify the correctness, functional behavior, and usability of your app before it is released publicly.
+
 - **Presentation layer**: UI tests with Espresso 2 and Android Instrumentation.
 
 - **Domain layer**: JUnit + Mockito since it is a regular Java module.
