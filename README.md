@@ -18,7 +18,7 @@ The first resource I would like to present is a superb blogpost by [uncle bob](h
 
 ## Why to invest into architecture ?
 
-I would like to start by talking why I think that **apps architecture** is an important topic to discuss and why it is worth to invest time and resources into building one. It is sometimes pretty easy to start together working on application, but this approach cannot scale, It does not work well, so let’s face it.
+I would like to start by talking why I think that **apps architecture** is an important topic to discuss and why it is worth to invest time and resources into building one. It is sometimes pretty easy for team to start together working on an application, but this approach cannot scale, It does not work well, so let’s face it.
 
 ## Integrating Model View Presenter
 
