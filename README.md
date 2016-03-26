@@ -135,7 +135,7 @@ Here, each feature has its implementation spread out over multiple directories, 
 
 ## Organization build logic approach: Gradle
 
-On Android, we use gradle, which is the official build tool system for android development. The idea here is to go through a bunch of advantage of this great build automation system 
+On Android, we use **gradle**, which is the official build tool system for android development. The idea here is to go through a bunch of advantage of this great build automation system 
 
 - Build different flavours or variants of your app
 
