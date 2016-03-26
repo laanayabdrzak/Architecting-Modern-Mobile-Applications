@@ -26,7 +26,7 @@ In the past few years, several architectural patterns such as **MVP** or **MVVM*
 
 #### So why use MVP?
 
-In Android we have a problem arising from the fact that Android activities are **closely coupled** to both interface and data access mechanisms. The main issue with this approach was that the View layer had too many responsibilities, so it becomes impossible to maintain and extend. Ideally the **MVP** pattern would achieve that same logic might have completely different and interchangeable views
+In Android we have a problem arising from the fact that Android activities are **closely coupled** to both interface and data access mechanisms. The main issue with this approach was that the View layer had too many responsibilities, so it becomes impossible to maintain and extend. Ideally the **MVP** pattern would achieve that same logic might have completely different and interchangeable views. **MVP** makes views independent from our data source. We divide the application into at least three different layers, which let us test them independently.
 
 ## ReactiveX approach: [RxJava/ RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
