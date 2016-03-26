@@ -1,6 +1,6 @@
 # Architecting Modern Mobile Applications
 
-Hey there! After my post on [Android Development : Some of the best practices](https://medium.com/@laanayabdrzak/android-development-some-of-the-best-practices-27722c685b6a#.de2dny4t6) (and a lot of research), I decided to give you taste of what I consider a good approach when it comes to **architecting modern mobile applications** (android in this case).
+Hey there! After my post on [Android Development : Some of the best practices](https://medium.com/@laanayabdrzak/android-development-some-of-the-best-practices-27722c685b6a#.de2dny4t6), I decided to give you taste of what I consider a good approach when it comes to **architecting modern mobile applications** (android in this case).
 
 The first resource I would like to present is a superb blogpost by [uncle bob](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
@@ -18,7 +18,7 @@ The first resource I would like to present is a superb blogpost by [uncle bob](h
 
 ## Why to invest into architecture ?
 
-I would like to start by talking why I think that **apps architecture** is an important topic to discuss and why it is worth to invest time and resources into building one. It is sometimes pretty easy to start together on working application, but this approach cannot scale, It does not work well, so let’s face it.
+I would like to start by talking why I think that **apps architecture** is an important topic to discuss and why it is worth to invest time and resources into building one. It is sometimes pretty easy to start together working on application, but this approach cannot scale, It does not work well, so let’s face it.
 
 ## Integrating Model View Presenter
 
@@ -154,4 +154,4 @@ On Android, we use **gradle**, which is the official build tool system for andro
 
 
 
-Fortunately, app architecture is a really hot topic lately, and there are more than enough articles and blog posts describing different approaches for building different architectures in Android from classical concepts such as **MVP, MVVM, MVC** to some fancy new approaches like the Square way with **Mortar** and **Flow**. Hopefully that this article gonna helps you to achieve better architecting your future apps. Stay tuned for my futur posts. 
+Fortunately, app architecture is a really hot topic lately, and there are more than enough articles and blog posts describing different approaches for building different architectures in Android from classical concepts such as **MVP, MVVM, MVC** to some fancy new approaches like the Square way with **Mortar** and **Flow**. Hopefully that this article gonna helps you to achieve a better architecture for your future apps. Stay tuned for more posts. 
