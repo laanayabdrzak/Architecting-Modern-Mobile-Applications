@@ -147,7 +147,8 @@ On Android, we use gradle, which is the official build tool system for android d
 
 - Android Project Structure
 
+- More..
 
 
 
-Fortunately, app architecture is a really hot topic lately, and there are more than enough articles and blog posts describing different approaches for building different architectures in Android from classical concepts such as **MVP, MVVM, MVC** to some pretty new approaches like the Square way with **Mortar** and **Flow**. Hopefully that this article gonna helps you to achieve better architecting your future apps. Stay tuned for my futur posts. 
+Fortunately, app architecture is a really hot topic lately, and there are more than enough articles and blog posts describing different approaches for building different architectures in Android from classical concepts such as **MVP, MVVM, MVC** to some fancy new approaches like the Square way with **Mortar** and **Flow**. Hopefully that this article gonna helps you to achieve better architecting your future apps. Stay tuned for my futur posts. 
