@@ -20,6 +20,14 @@ The first resource I would like to present is a superb blogpost by [uncle bob](h
 
 I would like to start by talking why I think that **apps architecture** is an important topic to discuss and why it is worth to invest time and resources into building one. It is sometimes pretty easy to start together on working application, but this approach cannot scale, It does not work well. So let’s face it
 
+## Integrating Model View Presenter
+
+In the past year, several architectural patterns such as **MVP** or **MVVM** have been gaining popularity within the Android community. There are more and more people talking about it. 
+
+#### So why use MVP?
+
+In Android we have a problem arising from the fact that Android activities are **closely coupled** to both interface and data access mechanisms.
+
 ## ReactiveX approach: [RxJava/ RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
 - Developing an Android app that has lots of network connections, user interactions, and animations often means writing code that is full of nested callbacks. Such code, sometimes called callback hell. ReactiveX offers an alternative approach that is both clear and concise, to manage asynchronous tasks and events.
