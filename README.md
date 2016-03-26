@@ -6,15 +6,15 @@ The first resource I would like to present is a superb blogpost by [uncle bob](h
 
 - Good **Architecture** is :
 
-- Independent of UI
+	- Independent of UI
 
-- Independent of Frameworks
+	- Independent of Frameworks
 
-- Independent of any agency externe
+	- Independent of any agency externe
 
-- Independent of Database
+	- Independent of Database
 
-- Testable
+	- Testable
 
 ## Why to invest into architecture ?
 
