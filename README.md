@@ -32,11 +32,11 @@ I would like to start by talking why I think that **apps architecture** is an im
 
 - Generally in **Clean Architecture**, code is separated into layers in an onion shape with one dependency rule: **The inner layers should not know anything about the outer layers**. Meaning that the dependencies should point inwards. at this point **Dagger 2** came with this rules:
     
-    1.Components **reuse**, since dependencies can be **injected** and **configured** externally.
+    1. Components **reuse**, since dependencies can be **injected** and **configured** externally.
 	
-	2. When **injecting** abstractions as collaborators, we can just change the implementation of any object without having to make a lot of changes in our codebase, since that object instantiation resides in one place isolated and decoupled.
+    2. When **injecting** abstractions as collaborators, we can just change the implementation of any object without having to make a lot of changes in our codebase, since that object instantiation resides in one place isolated and decoupled.
 	
-	3. **Dependencies can be injected into a component**: it is possible to **inject** mock implementations of these dependencies which makes **testing** easier.
+    3. **Dependencies can be injected into a component**: it is possible to **inject** mock implementations of these dependencies which makes **testing** easier.
 
 At least the advantages for using **Dagger 2**:
 
